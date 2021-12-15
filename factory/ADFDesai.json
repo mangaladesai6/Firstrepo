@@ -1,0 +1,9 @@
+{
+	"name": "ADFDesai",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "65bf5a6f-09a5-4ba0-b076-c54dca1d1b5b",
+		"tenantId": "c67afcde-993c-4f8f-ac62-6f2ae8757eff"
+	}
+}
